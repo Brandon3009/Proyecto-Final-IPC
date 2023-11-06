@@ -1,0 +1,18 @@
+[
+    {
+        "nombre_curso": "IPC",
+        "costo": 250.0,
+        "horario": "15:05 - 16:00",
+        "codigo": "2",
+        "cupo": 1,
+        "catedratico": "Morales"
+    },
+    {
+        "nombre_curso": "Matematicas",
+        "costo": "300.0",
+        "horario": "07:00 - 09:30",
+        "codigo": "2",
+        "cupo": "2",
+        "catedratico": "Lemus"
+    }
+]
